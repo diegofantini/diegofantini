@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Fantini</h1>
-<h3 align="center">A passionate Back End Developer from Brazil</h3>
+<h3 align="center">A passionate IT guy from Brazil</h3>
 
 - 🔭 I’m currently working on [Carreira Desenvolvedor Backend .NET](https://balta.io/carreiras/desenvolvedor-backend-dotnet)
 
@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Data Science, Power BI**
 
-- 💬 Ask me about **SQL, C#, Linux, C**
+- 💬 Ask me about **SQL, C#, C**
 
 - 📫 How to reach me **diegofantini@ymail.com**
 
